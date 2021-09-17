@@ -411,7 +411,7 @@ body {
 
   .houseRepair .fullBox .contentBox .title hr {
     height: 10px;
-    width: 100%;
+    width: 90%;
   }
   .houseRepair .fullBox .imageBox {
     display: flex;
