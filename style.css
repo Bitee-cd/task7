@@ -408,10 +408,12 @@ body {
     font-weight: 900;
     letter-spacing: 2px;
   }
-
+ .houseRepair .fullBox .contentBox .title .line{
+   width:90%
+  }
   .houseRepair .fullBox .contentBox .title hr {
     height: 10px;
-    width: 90%;
+    width: 100%;
   }
   .houseRepair .fullBox .imageBox {
     display: flex;
