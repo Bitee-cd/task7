@@ -617,7 +617,7 @@ body {
     display: none;
   }
   .houseRepair .fullBox {
-    top: 320px;
+    top: 340px;
     position: relative;
     padding: 50px;
   }
@@ -626,12 +626,12 @@ body {
     padding: 0;
   }
   .houseRepair .fullBox .contentBox .title h1 {
-    font-size: 2rem;
+    font-size: 1.78rem;
     letter-spacing: 1px;
     font-weight: 300;
   }
   .houseRepair .fullBox .contentBox .title h1 span {
-    font-size: 4.2rem;
+    font-size: 3.78rem;
     font-weight: 900;
     letter-spacing: 2px;
   }
