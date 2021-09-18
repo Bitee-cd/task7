@@ -624,7 +624,7 @@ body {
     padding: 20px;
   }
   .houseRepair .fullBox .contentBox {
-    width: 80%;
+    width: 100%;
     padding: 0;
   }
   .houseRepair .fullBox .contentBox .title h1 {
@@ -640,7 +640,7 @@ body {
 
   .houseRepair .fullBox .contentBox .title hr {
     height: 10px;
-    width: 100%;
+    width: 90%;
   }
   .ourServices {
     padding: 30px;
